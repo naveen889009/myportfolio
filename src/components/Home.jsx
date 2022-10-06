@@ -39,7 +39,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            class="p-1 bg-white border rounded max-w-sm"
           />
         </div>
       </div>
